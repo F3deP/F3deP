@@ -1,4 +1,4 @@
-# Hi there, I'm Federico Picone! 👋
+# Hi there, I'm Federico! 👋
 
 > **Master's Student in Theoretical Physics** at the University of Milan. 
 > Passionate about modeling complex phenomena and leveraging machine learning in physics.
