@@ -16,7 +16,7 @@ On this profile, I showcase my academic work, university coursework, and persona
 
 ## 📚 Key Projects
 
-*   **[BSc Thesis Project]([LINK_TO_YOUR_BACHELOR_TESIS_REPO](https://github.com/F3deP/DVA-on-Microscopy-Imaging))** – My undergraduate thesis work exploring [briefly add 3-5 words describing the topic].
+*   **[BSc Thesis Project](https://github.com/F3deP/DVA-on-Microscopy-Imaging)** – My undergraduate thesis work exploring [briefly add 3-5 words describing the topic].
 *   **University Coursework** – Python, simulations, and data analysis projects developed during my academic journey.
 *   **Personal Projects** – Exploring new tools and personal interests in coding and physics.
 
